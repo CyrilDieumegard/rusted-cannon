@@ -1,9 +1,10 @@
-const CACHE_NAME='rusted-cannon-v1';
+const CACHE_NAME='rusted-cannon-v2';
 const PRECACHE=[
   './',
   './index.html',
   './manifest.webmanifest',
   './icon.svg',
+  './social-card.png',
   './assets/audio/stage-1-superhero-cc0.ogg',
   './assets/audio/stage-2-jungle-battle-cc0.ogg',
   './assets/audio/stage-3-oldschool-action-cc0.ogg'

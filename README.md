@@ -1,5 +1,7 @@
 # Rusted Cannon
 
+![Rusted Cannon key art](social-card.png)
+
 **Rusted Cannon** is a free, original pixel-art run-and-gun campaign that runs
 directly in a modern web browser. No installation or account is required.
 
