@@ -1,10 +1,11 @@
-const CACHE_NAME='rusted-cannon-v3';
+const CACHE_NAME='rusted-cannon-v4';
 const PRECACHE=[
   './',
   './index.html',
   './manifest.webmanifest',
   './icon.svg',
   './social-card.png',
+  './assets/atlas.js',
   './assets/audio/stage-1-superhero-cc0.ogg',
   './assets/audio/stage-2-jungle-battle-cc0.ogg',
   './assets/audio/stage-3-oldschool-action-cc0.ogg'
