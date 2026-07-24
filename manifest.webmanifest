@@ -1,0 +1,19 @@
+{
+  "name": "Rusted Cannon",
+  "short_name": "Rusted Cannon",
+  "description": "An original pixel-art run-and-gun campaign.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#07090d",
+  "theme_color": "#07090d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
