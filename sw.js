@@ -1,4 +1,4 @@
-const CACHE_NAME='rusted-cannon-v2';
+const CACHE_NAME='rusted-cannon-v3';
 const PRECACHE=[
   './',
   './index.html',
